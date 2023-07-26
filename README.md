@@ -13,6 +13,7 @@
 #### `Backend`
 - Java
 - Spring
+- MyBatis
 - MySQL
 
 #### `Frontend`
